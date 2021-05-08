@@ -1,0 +1,2 @@
+Домашнее задание к лекции «Контейнеры». Set  
+[![Build status](https://ci.appveyor.com/api/projects/status/xiqwkc572ln5iuhx?svg=true)](https://ci.appveyor.com/project/EkaterinaAkhmetzyanova/ajs-hw-3-1-containers-set)
